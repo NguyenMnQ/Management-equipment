@@ -1,0 +1,53 @@
+﻿@model EquipmentManagerment.Context.ThietBi
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>XÓA THIẾT BỊ</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenThietBi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenThietBi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Thongtin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Thongtin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input onclick ="return confirm ('Bạn có chắc muốn xóa thiết bị này không ???')" type="submit" value="Delete" class="deletebutton" />
+            <a class="backbutton" href="/Admin/Equipment/Index">Trở lại</a>
+        </div>
+    }
+</div>

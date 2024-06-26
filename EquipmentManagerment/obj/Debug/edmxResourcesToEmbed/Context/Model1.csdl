@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EquipmentManangermentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenNhanVien" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SoDienThoai" Type="Int32" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNhanVien" Type="Int32" Nullable="false" />
+    <Property Name="Avatar" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Int32" />
+    <NavigationProperty Name="NhanVien_ThietBi" Relationship="Self.FK_NhanVien_ThietBi_NhanVien" FromRole="NhanVien" ToRole="NhanVien_ThietBi" />
+  </EntityType>
+  <EntityType Name="NhanVien_ThietBi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDnhanvien" Type="Int32" Nullable="false" />
+    <Property Name="IDthietbi" Type="Int32" Nullable="false" />
+    <Property Name="NgayMuon" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ThongTinMoTa" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK_NhanVien_ThietBi_NhanVien" FromRole="NhanVien_ThietBi" ToRole="NhanVien" />
+    <NavigationProperty Name="ThietBi" Relationship="Self.FK_NhanVien_ThietBi_ThietBi" FromRole="NhanVien_ThietBi" ToRole="ThietBi" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="ThietBi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenThietBi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Thongtin" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" />
+    <NavigationProperty Name="NhanVien_ThietBi" Relationship="Self.FK_NhanVien_ThietBi_ThietBi" FromRole="ThietBi" ToRole="NhanVien_ThietBi" />
+  </EntityType>
+  <Association Name="FK_NhanVien_ThietBi_NhanVien">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="NhanVien_ThietBi" Type="Self.NhanVien_ThietBi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhanVien_ThietBi">
+        <PropertyRef Name="IDnhanvien" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NhanVien_ThietBi_ThietBi">
+    <End Role="ThietBi" Type="Self.ThietBi" Multiplicity="1" />
+    <End Role="NhanVien_ThietBi" Type="Self.NhanVien_ThietBi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ThietBi">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhanVien_ThietBi">
+        <PropertyRef Name="IDthietbi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EquipmentManangermentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NhanViens" EntityType="Self.NhanVien" />
+    <EntitySet Name="NhanVien_ThietBi" EntityType="Self.NhanVien_ThietBi" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="ThietBis" EntityType="Self.ThietBi" />
+    <AssociationSet Name="FK_NhanVien_ThietBi_NhanVien" Association="Self.FK_NhanVien_ThietBi_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="NhanVien_ThietBi" EntitySet="NhanVien_ThietBi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NhanVien_ThietBi_ThietBi" Association="Self.FK_NhanVien_ThietBi_ThietBi">
+      <End Role="ThietBi" EntitySet="ThietBis" />
+      <End Role="NhanVien_ThietBi" EntitySet="NhanVien_ThietBi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

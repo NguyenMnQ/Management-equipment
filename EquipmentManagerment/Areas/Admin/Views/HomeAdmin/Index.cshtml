@@ -1,0 +1,74 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+<style>
+    #map {
+        height: 500px;
+    }
+</style>
+<br /><br />
+<div>
+    <select class="form-control" id="selectedValue" onchange="GoLocation(this.value)">
+
+        <option>--Select--</option>
+        @foreach (var item in ViewBag.ListOfDropdown)
+        {
+            <option value="@item.ID">@item.TenNhanVien</option>
+        }
+
+    </select>
+</div>
+<br />
+<div id="map"></div>
+
+<script>
+    var map;
+    function initMap(zoomeLevel, latDb, longDb) {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: { lat: latDb != null ? latDb : 10.8442079999971, lng: longDb != null ? longDb : 106.6356349999925 },
+            zoom: zoomeLevel != null ? zoomeLevel : 20
+        });
+    }
+    function GoLocation(locationId) {
+        $.get("/HomeAdmin/GetAllLocationById?id=" + locationId, function (data, status) {
+            initMap(data.Zoom, data.Lat, data.Long);
+            const myLatLng = { lat: data.Lat, lng: data.Long };
+            new google.maps.Marker({
+                position: myLatLng,
+                map,
+            });
+            const contentString =
+                '<div id="content">' +
+                '<div id="siteNotice">' +
+                "</div>" +
+                '<h1 id="firstHeading" class="firstHeading">' + data.TenNhanVien + '</h1>' +
+                '<div id="bodyContent">' +
+                '<p><b>' + data.DiaChi + '</b></p>' +
+                '<p><b>' + data.SoDienThoai + '</b></p>' +
+                "</div>" +
+                "</div>";
+            const infowindow = new google.maps.InfoWindow({
+                content: contentString,
+            });
+            const marker = new google.maps.Marker({
+                position: myLatLng,
+                map,
+            });
+            marker.addListener("mouseover", () => {
+                infowindow.open({
+                    anchor: marker,
+                    map,
+                });
+            });
+            marker.addListener('mouseout', () => {
+                infowindow.close({
+                    anchor: marker,
+                    map,
+                });
+            });
+        })
+    }
+</script>
+@*<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJOZd-P3bAJXBAYtfryQT_GTv61uRehMs&callback=initMap" async defer></script>*@
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDReE-pULp8p8dTmwcMKZPyu874cIyUG14&callback=initMap" async defer></script>

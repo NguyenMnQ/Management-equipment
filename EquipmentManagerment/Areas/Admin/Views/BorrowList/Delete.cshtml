@@ -1,0 +1,63 @@
+﻿@model EquipmentManagerment.Context.NhanVien_ThietBi
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>XÓA HỒ SƠ</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayMuon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayMuon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ThongTinMoTa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ThongTinMoTa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NhanVien.TenNhanVien)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NhanVien.TenNhanVien)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ThietBi.TenThietBi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ThietBi.TenThietBi)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="deletebutton" />
+            <a class="backbutton" href="/Admin/BorrowList/Index">Back</a>
+        </div>
+    }
+</div>

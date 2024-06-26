@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c9f3b756c5804e9bba4bc278a738223a" Name="Diagram1">
+        <EntityTypeShape EntityType="EquipmentManangermentModel1.Account" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentManangermentModel1.NhanVien" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentManangermentModel1.NhanVien_ThietBi" Width="1.5" PointX="4.125" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentManangermentModel1.sysdiagram" Width="1.5" PointX="4.125" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="EquipmentManangermentModel1.ThietBi" Width="1.5" PointX="7.375" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="EquipmentManangermentModel1.FK_NhanVien_ThietBi_NhanVien" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="EquipmentManangermentModel1.FK_NhanVien_ThietBi_ThietBi" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EquipmentManangermentModel1.Address" Width="1.5" PointX="6.625" PointY="4.25" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

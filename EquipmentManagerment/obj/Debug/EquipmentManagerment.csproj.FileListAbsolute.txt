@@ -1,0 +1,380 @@
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EquipmentManagerment.dll.config
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\csc.exe
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\csc.exe.config
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\csc.rsp
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\csi.exe
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\csi.exe.config
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\csi.rsp
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.AppContext.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Console.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.IO.Compression.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.IO.Pipes.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.Claims.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.ValueTuple.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\vbc.exe
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\vbc.exe.config
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\vbc.rsp
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Helpers.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Mvc.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Webpages.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Webpages.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Webpages.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Webpages.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Helpers.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\System.Web.Mvc.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\obj\Debug\EquipmentManagerment.csprojAssemblyReference.cache
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CoreCompileInputs.cache
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CopyComplete
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\obj\Debug\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\obj\Debug\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EntityFramework.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EntityFramework.SqlServer.dll
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EntityFramework.xml
+D:\Study\Internship_training\EquipmentManagerment\EquipmentManagerment\bin\EntityFramework.SqlServer.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EquipmentManagerment.dll.config
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\csc.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\csc.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\csc.rsp
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\csi.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\csi.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\csi.rsp
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.AppContext.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Console.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.IO.Compression.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.IO.Pipes.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.Claims.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.ValueTuple.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\vbc.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\vbc.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\vbc.rsp
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EntityFramework.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EntityFramework.SqlServer.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Helpers.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Mvc.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Webpages.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Webpages.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EntityFramework.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\EntityFramework.SqlServer.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Webpages.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Webpages.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Helpers.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\System.Web.Mvc.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\obj\Debug\EquipmentManagerment.csprojAssemblyReference.cache
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CoreCompileInputs.cache
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CopyComplete
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\obj\Debug\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy (2)\EquipmentManagerment\obj\Debug\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EquipmentManagerment.dll.config
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\csc.exe
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\csc.exe.config
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\csc.rsp
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\csi.exe
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\csi.exe.config
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\csi.rsp
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.AppContext.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Console.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.IO.Compression.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.IO.Pipes.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.Claims.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.ValueTuple.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\vbc.exe
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\vbc.exe.config
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\vbc.rsp
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EntityFramework.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EntityFramework.SqlServer.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Helpers.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Mvc.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Webpages.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Webpages.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EntityFramework.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\EntityFramework.SqlServer.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Webpages.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Webpages.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Helpers.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\System.Web.Mvc.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\obj\Debug\EquipmentManagerment.csprojAssemblyReference.cache
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CoreCompileInputs.cache
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CopyComplete
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\obj\Debug\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\obj\Debug\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\CaptchaMvc.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\CaptchaMvc.pdb
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\CaptchaMvc.xml
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\Newtonsoft.Json.dll
+D:\Study\Internship_training\EquipmentManagerment - 2.1\EquipmentManagerment\bin\Newtonsoft.Json.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EquipmentManagerment.dll.config
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EquipmentManagerment.pdb
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csc.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csc.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csc.rsp
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csi.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csi.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csi.rsp
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.AppContext.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Console.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.Compression.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.Pipes.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Claims.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.ValueTuple.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\vbc.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\vbc.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\vbc.rsp
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\CaptchaMvc.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.SqlServer.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\Newtonsoft.Json.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Helpers.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Mvc.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Razor.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\CaptchaMvc.pdb
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\CaptchaMvc.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.SqlServer.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\Newtonsoft.Json.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Razor.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Helpers.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Mvc.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.csprojAssemblyReference.cache
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CoreCompileInputs.cache
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CopyComplete
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.dll
+D:\Study\Internship_training\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.pdb
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EquipmentManagerment.dll.config
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EquipmentManagerment.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EquipmentManagerment.pdb
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csc.exe.config
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csc.rsp
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csi.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csi.exe.config
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\csi.rsp
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Console.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Claims.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\vbc.exe.config
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\vbc.rsp
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\CaptchaMvc.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\CaptchaMvc.pdb
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\CaptchaMvc.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Webpages.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.dll
+C:\Users\nguye\OneDrive\Máy tính\New folder (2)\EquipmentManagerment - Copy\EquipmentManagerment\obj\Debug\EquipmentManagerment.pdb

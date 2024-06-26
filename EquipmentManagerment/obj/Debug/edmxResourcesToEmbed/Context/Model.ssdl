@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EquipmentManangermentModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenDangNhap" Type="varchar" MaxLength="50" />
+    <Property Name="MatKhau" Type="varchar" MaxLength="50" />
+    <Property Name="Level" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenNhanVien" Type="nvarchar" MaxLength="250" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="250" />
+    <Property Name="SoDienThoai" Type="varchar" MaxLength="11" />
+    <Property Name="Lat" Type="float" />
+    <Property Name="Long" Type="float" />
+    <Property Name="Zoom" Type="int" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenNhanVien" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="SoDienThoai" Type="int" Nullable="false" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="MaNhanVien" Type="int" Nullable="false" />
+    <Property Name="Avatar" Type="text" />
+    <Property Name="Status" Type="int" />
+    <Property Name="Lat" Type="float" />
+    <Property Name="Long" Type="float" />
+    <Property Name="Zoom" Type="int" />
+  </EntityType>
+  <EntityType Name="NhanVien_ThietBi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDnhanvien" Type="int" Nullable="false" />
+    <Property Name="IDthietbi" Type="int" Nullable="false" />
+    <Property Name="NgayMuon" Type="datetime" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ThongTinMoTa" Type="nvarchar" MaxLength="250" />
+    <Property Name="NgayTra" Type="datetime" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ThietBi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenThietBi" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="100" />
+    <Property Name="Thongtin" Type="nvarchar" MaxLength="250" />
+    <Property Name="Status" Type="int" />
+  </EntityType>
+  <Association Name="FK_NhanVien_ThietBi_NhanVien">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="NhanVien_ThietBi" Type="Self.NhanVien_ThietBi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhanVien_ThietBi">
+        <PropertyRef Name="IDnhanvien" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NhanVien_ThietBi_ThietBi">
+    <End Role="ThietBi" Type="Self.ThietBi" Multiplicity="1" />
+    <End Role="NhanVien_ThietBi" Type="Self.NhanVien_ThietBi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ThietBi">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="NhanVien_ThietBi">
+        <PropertyRef Name="IDthietbi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EquipmentManangermentModel1StoreContainer">
+    <EntitySet Name="Account" EntityType="Self.Account" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Address" EntityType="Self.Address" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien_ThietBi" EntityType="Self.NhanVien_ThietBi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ThietBi" EntityType="Self.ThietBi" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_NhanVien_ThietBi_NhanVien" Association="Self.FK_NhanVien_ThietBi_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanVien" />
+      <End Role="NhanVien_ThietBi" EntitySet="NhanVien_ThietBi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NhanVien_ThietBi_ThietBi" Association="Self.FK_NhanVien_ThietBi_ThietBi">
+      <End Role="ThietBi" EntitySet="ThietBi" />
+      <End Role="NhanVien_ThietBi" EntitySet="NhanVien_ThietBi" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

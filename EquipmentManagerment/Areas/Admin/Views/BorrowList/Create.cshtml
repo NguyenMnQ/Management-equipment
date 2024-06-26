@@ -1,0 +1,132 @@
+﻿@model EquipmentManagerment.Context.NhanVien_ThietBi
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>NhanVien_ThietBi</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.IDnhanvien, "Tên nhân viên", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("IDnhanvien", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.IDnhanvien, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.IDthietbi, "Tên thiết bị", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("IDthietbi", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.IDthietbi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        //$(document).ready(function () {
+        //    DateTimePicker();
+        //    $("#txtFromDate").change(function () {
+        //        var date2 = $("#txtFromDate").datepicker('getDate', '+1d');
+        //        console.log(date2);
+        //        date2.setDate(date2.getDate() + 1);
+        //        $("#txtToDate").datepicker('option', 'minDate', date2);
+        //        $("#txtToDate").datepicker('setDate', date2);
+        //    });
+
+        //    $("#btnSave").click(function () {
+        //        alert($("#txtFromDate").val());
+        //        alert($("#txtToDate").val());
+        //        var objStudentModel = { FromDate: $("#txtFromDate").val(), ToDate: $("#txtToDate").val() };
+        //        $.ajax({
+        //            async: true,
+        //            type: 'POST',
+        //            dataType: 'JSON',
+        //            contentType: 'application/json; charset=utf-8',
+        //            data: JSON.stringify(objStudentModel),
+        //            success: function () {
+        //                alert('da');
+        //            },
+        //            error: function () {
+
+        //            }
+        //        });
+        //    });
+        //});
+
+        function DateTimePicker() {
+            $(".datepicker").datepicker({
+                dateFormat: 'dd-M-yy',
+                changeMonth: true,
+                changeYear: true,
+                showOn: 'button',
+                sideBySide: true,
+                controlType: 'select',
+                //buttonImage: "https://jqueryui.com/resources/demos/datepicker/images/calendar.gif",
+                //buttonImageOnly: true,
+                buttonText: '<span class="glyphicon glyphicon-calendar" ></span>',
+                minDate: new Date()
+            });
+        }
+
+    </script>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NgayMuon, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @*@Html.EditorFor(model => model.NgayMuon, new {
+                    htmlAttributes = new {
+                        //@readonly = "true", Value = Model.NgayMuon.ToString("dd-MMM-yyyy"),
+                        @class = "form-control datepiker",
+                    }
+                })*@
+            <input type="date" name="NgayMuon" />
+            @Html.ValidationMessageFor(model => model.NgayMuon, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NgayTra, "Ngày trả", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @*@Html.EditorFor(model => model.NgayTra, new { htmlAttributes = new { @class = "form-control datepiker", } })*@
+            <input type="date" name="NgayTra" />
+            @Html.ValidationMessageFor(model => model.NgayTra, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @*@Html.EditorFor(model => model.Status, new { htmlAttributes = new { @class = "form-control" } })*@
+            @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+            <select name="Status" class="nav-link bg-success form-control">
+                <option value="1">Đang mượn</option>
+                <option value="2">Đã trả</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ThongTinMoTa, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.ThongTinMoTa, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.ThongTinMoTa, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="submitbutton" />
+            <a class="backbutton" href="/Admin/BorrowList/Index">Back</a>
+        </div>
+    </div>
+</div>
+
+}

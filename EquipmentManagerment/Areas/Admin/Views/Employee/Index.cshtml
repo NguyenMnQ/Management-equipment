@@ -1,0 +1,114 @@
+﻿@model IEnumerable<EquipmentManagerment.Context.NhanVien>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">DANH SÁCH NHÂN VIÊN</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <a class="submitbutton" href="/Admin/Employee/Create"> Thêm nhân viên </a>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <table id="example2" class="table table-bordered table-hover">
+                            <thead>
+                                <tr style="text-align: center">
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.ID)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.TenNhanVien)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Email)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.SoDienThoai)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.DiaChi)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.MaNhanVien)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Avatar)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Status)
+                                    </th>
+                                    <th>Tùy chọn</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                <tr>
+                                    <td style="text-align: center">
+                                        @Html.DisplayFor(modelItem => item.ID)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TenNhanVien)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Email)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SoDienThoai)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DiaChi)
+                                        <a href="/Admin/HomeAdmin/Index"><i class="fas fa-map-marker-alt mr-1"></i></a>
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.MaNhanVien)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Avatar)
+                                    </td>
+                                    <td style="text-align: center">
+                                        @if (@item.Status == 1)
+                                        {
+                                            <span style="color: #4CAF50">Đang làm</span>
+                                        }
+                                        else
+                                        {
+                                            <span style="color: #f44336">Đã nghỉ</span>
+                                        }
+                                    </td>
+                                    <td style="text-align: center">
+                                        @Html.ActionLink("Sửa", "Edit", new { id = item.ID }, htmlAttributes: new { @class = "editbutton" })
+                                        @Html.ActionLink("Xóa", "Delete", new { id = item.ID }, htmlAttributes: new { @class = "deletebutton", @onclick = "return confirm ('Bạn có chắc muốn xóa nhân viên này không ???')" })
+                                    </td>
+                                </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</section>
